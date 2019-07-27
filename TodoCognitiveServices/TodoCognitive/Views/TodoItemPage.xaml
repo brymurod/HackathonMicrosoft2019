@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TodoCognitive.TodoItemPage" x:Name="page" Title="Authors">
+    <ScrollView><Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+            </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition  Width="*" />
+        </Grid.ColumnDefinitions>
+
+            <Label BackgroundColor="#595338" Grid.Row="0" Grid.Column="0" Text="Name" TextColor="White" />
+            <Label BackgroundColor="#595338" Grid.Row="0" Grid.Column="1" Text="Role" TextColor="White" />
+            <Label BackgroundColor="#FF5733" Grid.Row="1" Grid.Column="0" Text="Bryan Jesus Murillo Rodriguez" TextColor="White" />
+            <Label BackgroundColor="#0DB40D" Grid.Row="1" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+
+            <Label BackgroundColor="#2C5EDC" Grid.Row="2" Grid.Column="0" Text="Giannina Mondragon" TextColor="White" />
+            <Label BackgroundColor="#F0C918" Grid.Row="2" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+            <Label BackgroundColor="#FF5733" Grid.Row="3" Grid.Column="0" Text="David Molina" TextColor="White" />
+            <Label BackgroundColor="#0DB40D" Grid.Row="3" Grid.Column="1" Text="Manager" TextColor="White" />
+
+            <Label BackgroundColor="#2C5EDC" Grid.Row="4" Grid.Column="0" Text="Jorge Leiton" TextColor="White" />
+            <Label BackgroundColor="#F0C918" Grid.Row="4" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+            <Label BackgroundColor="#FF5733" Grid.Row="5" Grid.Column="0" Text="Juan Pablo Jimenez Cubillo" TextColor="White" />
+            <Label BackgroundColor="#0DB40D" Grid.Row="5" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+
+            <Label BackgroundColor="#2C5EDC" Grid.Row="6" Grid.Column="0" Text="Christian Watson Carazo" TextColor="White" />
+            <Label BackgroundColor="#F0C918" Grid.Row="6" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+            <Label BackgroundColor="#FF5733" Grid.Row="7" Grid.Column="0" Text="Gerson Gutierrez" TextColor="White" />
+            <Label BackgroundColor="#0DB40D" Grid.Row="7" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+
+            <Label BackgroundColor="#2C5EDC" Grid.Row="8" Grid.Column="0" Text="David Martinez" TextColor="White" />
+            <Label BackgroundColor="#F0C918" Grid.Row="8" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+            <Label BackgroundColor="#FF5733" Grid.Row="9" Grid.Column="0" Text="Pablo Gallegos" TextColor="White" />
+            <Label BackgroundColor="#0DB40D" Grid.Row="9" Grid.Column="1" Text="Support Engineer" TextColor="White" />
+            <Label BackgroundColor="#2C5EDC" Grid.Row="10" Grid.Column="0" Text="Monica Adjemian" TextColor="White" />
+            <Label BackgroundColor="#F0C918" Grid.Row="10" Grid.Column="1" Text="Lawyer" TextColor="White" />
+        </Grid>
+    </ScrollView>
+</ContentPage>

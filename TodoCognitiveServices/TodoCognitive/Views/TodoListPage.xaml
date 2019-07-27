@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TodoCognitive.TodoListPage" Title="Allergens App">
+	<ContentPage.ToolbarItems>
+        <ToolbarItem Icon="list.png" Clicked="OnAllergyProfile" />
+        <ToolbarItem Icon="developer.png" Clicked="OnItemAdded" />
+        <ToolbarItem Icon="allergen3.png" Clicked="OnRateApplication" />
+	</ContentPage.ToolbarItems>
+	
+                    <StackLayout Margin="20,0,0,0" Orientation="Vertical">
+                        <Label Text="Allergens App" />   
+                        
+                    <Image Source="allergens2.png" Margin="0" />
+                     
+                    <Label Text="Description" />
+
+                    <Label Text="Today people suffer of many allergies caused by allergens in the food, many people struggle to keep their life style and eat the things they like without the risk of get sick. Many allergens are not fully mentioned in the product ingredients list or they are called in a different way, it's a big challenge to identify them and figured out if it's save or not for someone with a specific allergy. Our plan in make people with allergies easier by building a Mobile App which can use their phone cameras to read the product ingredients via code bar or OCR technology and based on that analysis determinate the if there is a risk for that person and their allergies to consume that product. People with intolerance, allergy or sensitive to certain components might rest in our App to have a better assessment of what they can buy at the store or supermarket." />                    
+                        
+                        
+  
+                    </StackLayout>
+				
+	
+</ContentPage>

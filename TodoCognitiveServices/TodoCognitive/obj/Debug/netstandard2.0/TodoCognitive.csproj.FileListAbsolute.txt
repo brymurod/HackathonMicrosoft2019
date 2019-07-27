@@ -1,0 +1,15 @@
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\bin\Debug\netstandard2.0\TodoCognitive.deps.json
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\bin\Debug\netstandard2.0\TodoCognitive.dll
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\bin\Debug\netstandard2.0\TodoCognitive.pdb
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\TodoCognitive.csprojAssemblyReference.cache
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\Views\AllergyProfilePage.xaml.g.cs
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\Views\RateAppPage.xaml.g.cs
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\TodoCognitive.csproj.CoreCompileInputs.cache
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\TodoCognitive.AssemblyInfoInputs.cache
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\TodoCognitive.AssemblyInfo.cs
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\TodoCognitive.dll
+C:\Users\brrodr\Downloads\TodoCognitiveServices\TodoCognitive\obj\Debug\netstandard2.0\TodoCognitive.pdb
